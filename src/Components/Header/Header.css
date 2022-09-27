@@ -1,0 +1,18 @@
+.nav-bar{
+    height:80px;
+    background-color: #1C2b35;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    align-items: center;
+}
+.nav-bar a{
+    text-decoration: none;
+    color:white;
+    font-size:17px;
+    margin-left: 36px;
+}
+.nav-bar a:hover{
+    color: orange;
+}
